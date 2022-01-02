@@ -1,0 +1,9 @@
+numpy 
+tqdm
+pandas
+tensorflow
+keras
+pathlib
+pickle
+shutil
+jupyter
